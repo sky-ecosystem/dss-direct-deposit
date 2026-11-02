@@ -69,3 +69,22 @@ forge t --mt <test name>
 ```
 
 Verbosity can also be specified inline (`-vvv`), more information on forge test can be found [here](https://book.getfoundry.sh/reference/forge/forge-test).
+
+## Audits
+
+Audit reports are hosted on the auditors' public portfolio pages:
+
+| Auditor | Report | Date |
+| --- | --- | --- |
+| ChainSecurity | [MakerDAO D3M AaveV3 USDS Pool](https://www.chainsecurity.com/security-audit/makerdao-d3m-aavev3-usds-pool/) | 2024-09-10 |
+| ChainSecurity | [MakerDAO D3M ERC4626](https://www.chainsecurity.com/security-audit/makerdao-d3m-erc4626/) | 2024-03-21 |
+| ChainSecurity | [MakerDAO Direct Deposit V2](https://www.chainsecurity.com/security-audit/makerdao-direct-deposit-v2/) | 2024-03-20 |
+| ChainSecurity | [MakerDAO Direct Deposit Module (D3M)](https://www.chainsecurity.com/security-audit/makerdao-direct-deposit-module-d3m/) | 2021-11-17 |
+
+ChainSecurity reports are cumulative: each portfolio page hosts the latest version of the report, which covers all previously reviewed versions.
+
+### Other reports
+
+The following reports are not available on an auditor portfolio page and are kept in this repository:
+
+- [Spearbit (2024_03_Spearbit-report-maker-d3m-implementation-for-morpho-review.pdf)](./audits/2024_03_Spearbit-report-maker-d3m-implementation-for-morpho-review.pdf)
